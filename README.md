@@ -6,10 +6,10 @@
     Bem vindo ao meu primeiro repositório feito em casa!
 ## 📋 Pré requisitos ##
  É nescessário ter um navegador para execultar esse projeto, exemplo:
- * Chrome
- * Firefox
- * Opera
- * Opera GX
+|Navegadores|tambem|
+|----------|---------|
+| Chrome  | Firefox |
+| Opera  | Opera GX  |
 
 ## 🔧 Instalação ##
 Instale os arquivos do repositório, menos o README, após a instalação use ou "VS" ou "VSC" para visualizar os arquivos, Exemplos:
